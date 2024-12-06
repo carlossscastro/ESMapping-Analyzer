@@ -60,5 +60,5 @@ There is also an optional argument to change the order of the output results and
 To run the analyzer execute it with your Python runtime binary:
 
 ```bash
-python ESMapping-analyzer mappings.json index-name
+python ESMapping-analyzer.py mappings.json index-name
 ```
