@@ -14,7 +14,7 @@ This curl command retrieves all the indexes.
 Note this is a generic url and needs to be setup with your specific one.
 
 After creating the `mappings.json` file open it to get the names of the indexes exported.
-The resulting file will have a structure similat to this:
+The resulting file will have a structure similar to this:
 
 ```json
 {
